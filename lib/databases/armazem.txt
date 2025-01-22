@@ -1,0 +1,5 @@
+Playstation;20;id2305
+Minecraft;50;id3194
+Xbox One;200;id3817
+Diablo 3;300;id3059
+COD Black Ops;10;id3035
